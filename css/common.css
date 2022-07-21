@@ -1,0 +1,18 @@
+body{
+  margin: 0;
+  background-color: #33CCFF;
+  width: 100vw;
+  text-align: center;
+  vertical-align: middle;
+}
+
+header{
+    margin: 0 0 0 0;
+    padding: 30px 0 30px 0;
+    text-align: center;
+    background-color: #000;
+}
+
+h1{
+  color: #fff;
+}
